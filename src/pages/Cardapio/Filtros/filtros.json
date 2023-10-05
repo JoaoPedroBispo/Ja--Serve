@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "label": "Verduras"
+    },
+    {
+        "id": 2,
+        "label": "Frutas"   
+    },
+    {
+        "id": 3,
+        "label": "Legumes"
+    }
+]
